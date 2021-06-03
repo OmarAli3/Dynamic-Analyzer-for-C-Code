@@ -1,5 +1,5 @@
 
-# Dynamic Analyzer in C
+# Dynamic Analyzer for C
 
 In this project we use [ANTLR](https://www.antlr.org/) to parse and analyze programs writen in C language and show which parts of code executed and which didn't.
 
