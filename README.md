@@ -35,6 +35,7 @@ All configurations are preset and its easy to run the project directly.
 - Just download and install [IntelliJ IDEA](https://www.jetbrains.com/idea/download/) 
 - Open project folder with IntelliJ.
 - Put your C code in a file and call it main.c then put it inside `/Input C Code/` directory.
+- Make sure you have [GCC Compiler](https://gcc.gnu.org/) installed.
 - Run Test.main().
 - Open `/Output HTML/main.html` to see the output.
 
